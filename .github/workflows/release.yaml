@@ -23,4 +23,7 @@ jobs:
         with:
           node-version: 12
       - name: Lerna version
-        run: npx lerna version --yes --conventional-commits
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          npx lerna version --yes --conventional-commits
