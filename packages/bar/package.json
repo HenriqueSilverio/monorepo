@@ -1,0 +1,10 @@
+{
+  "name": "@henriquesilverio/bar",
+  "version": "1.0.0",
+  "description": "Learning Learna",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.7.2"
+  }
+}
