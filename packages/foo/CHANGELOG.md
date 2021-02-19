@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.2](https://github.com/HenriqueSilverio/monorepo/compare/@henriquesilverio/foo@1.0.1...@henriquesilverio/foo@1.0.2) (2021-02-19)
+
+
+### Bug Fixes
+
+* update foo log message ([2f4dcfb](https://github.com/HenriqueSilverio/monorepo/commit/2f4dcfbc934e0b31ed3a09587b1a96bfbc2c4744))
+
+
+
+
+
 ## [1.0.1](https://github.com/HenriqueSilverio/monorepo/compare/@henriquesilverio/foo@1.0.0...@henriquesilverio/foo@1.0.1) (2021-02-19)
 
 
