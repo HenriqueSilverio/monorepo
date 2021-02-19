@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.2 (2021-02-19)
+
+
+### Bug Fixes
+
+* update bar log ([b00c3ec](https://github.com/HenriqueSilverio/monorepo/commit/b00c3ec41c06cb9e379031fc14485c8ad0ec9420))
+
+
+
+
+
 ## [1.0.1](https://github.com/HenriqueSilverio/monorepo/compare/@henriquesilverio/bar@1.0.0...@henriquesilverio/bar@1.0.1) (2021-02-19)
 
 
