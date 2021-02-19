@@ -1,1 +1,2 @@
-console.log('Hello World from bar')
+const name = 'World'
+console.log(`Hello ${name} from bar!`)
