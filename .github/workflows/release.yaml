@@ -25,5 +25,5 @@ jobs:
       - name: Lerna version
         run: |
           git config --local user.name "GitHub Actions"
-          git config --local user.email "github-actions@github.com"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           npx lerna version --yes --conventional-commits
