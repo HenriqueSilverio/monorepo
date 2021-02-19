@@ -1,0 +1,26 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  lerna:
+    name: Release Tags
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.GH_ADMIN_TOKEN }}
+      - name: Pull tags
+        run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 12
+      - name: Lerna version
+        run: npx lerna version --yes --conventional-commits
