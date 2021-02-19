@@ -1,6 +1,6 @@
 {
   "name": "@henriquesilverio/bar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Learning Lerna",
   "main": "index.js",
   "private": true,
