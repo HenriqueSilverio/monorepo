@@ -1,0 +1,10 @@
+{
+  "name": "@henriquesilverio/foo",
+  "version": "1.0.0",
+  "description": "Learning Learna",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
