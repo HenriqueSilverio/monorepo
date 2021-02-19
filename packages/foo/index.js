@@ -1,1 +1,2 @@
-console.log('Hello World from foo!')
+const name = 'World'
+console.log(`Hello ${name} from foo!`)
