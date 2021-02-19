@@ -1,1 +1,1 @@
-console.log('Some log from foo')
+console.log('Hello World from foo!')
