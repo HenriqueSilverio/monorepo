@@ -1,2 +1,2 @@
 const name = 'World'
-console.log(`Hello ${name} from bar!`)
+console.log(`Hello ${name} from bar! Just testing...`)
