@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/HenriqueSilverio/monorepo/compare/@henriquesilverio/bar@1.0.4...@henriquesilverio/bar@1.0.5) (2021-03-25)
+
+
+### Bug Fixes
+
+* update log message ([e32c280](https://github.com/HenriqueSilverio/monorepo/commit/e32c280da3642867e250e3e5d02b2ff2891918ff))
+
+
+
+
+
 ## 1.0.4 (2021-02-19)
 
 
